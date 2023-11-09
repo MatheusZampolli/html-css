@@ -1,0 +1,160 @@
+@charset "UTF-8";
+
+
+    @font-face {
+        font-family: [idroid];
+        src: url(fontes/idroid.ttf);
+    
+}
+
+body{
+    font-family: 'idroid', 'Arial Narrow Bold', sans-serif;
+    background-color:#00FA9A;
+       margin-top: 0px;
+       margin-right: 0px;
+    margin: 0;
+    
+    
+}
+
+header{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+    font-family: Arial;
+    color: white;
+    
+    
+    background-color: aqua;
+    text-align: center;
+    background-image: linear-gradient(#00FF7F,#006400);  }
+nav{
+    font-weight: bold;
+    text-align: left;
+    padding-top:80px;
+    margin-right: 10px;
+    
+    
+
+}
+main{
+    width: 800px;
+    height: auto;
+    background-color: white;
+    padding-top: 20px;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    
+            
+
+}
+
+h1#titulo{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    
+}
+
+
+
+
+.h1{
+    font-family: 'matheus'Arial, Helvetica, sans-serif;
+    background-color:  rgba(151, 179, 151, 0.199);
+    
+}
+h2{
+    background-color: rgba(151, 179, 151, 0.329);
+    color: rgb(1, 77, 1);
+}
+
+p#slongan{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+
+nav > a {
+    color: white;
+    margin-right: 10px;
+    
+    
+    
+    }
+    
+
+iframe{
+    background-color: #ffffff;
+    
+    
+}
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(199, 207, 199)55, 255, 255);
+}
+
+.display{
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+
+
+background-color: rgba(151, 179, 151, 0.329);
+    color: rgb(1, 77, 1);
+    }
+
+.titulo{
+    color: rgb(1, 77, 1);
+}
+
+.lista{
+background-color: rgba(151, 179, 151, 0.329);
+border-radius: 10px;
+padding: 0px;
+margin: 10px;
+margin-top: 8px;
+width: auto;
+margin-left: auto;
+
+
+}
+
+.macarrao{
+    background-color: rgb(1, 77, 1);
+    border: 10px;
+    padding: 20px;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold
+    ;
+}
+div#lista > p {
+    padding: 5px;
+    text-indent: 5%;
+}
+
+div{
+    display: inline-block;
+    margin:0px;
+}
